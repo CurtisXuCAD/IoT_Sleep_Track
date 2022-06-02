@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/stcr_db
+    username: mytestuser
+    password: My6$Password
